@@ -1,6 +1,6 @@
-# **Catharanthus roseus** self-organizing map clustering
+# *Catharanthus roseus* self-organizing map clustering
 
-The files in this repository recreate figure 2 from the paper "An NPF transporter exports a central monoterpene indole alkaloid intermediate from the vacuole"
+The files in this repository recreate figure 2 from the paper ["An NPF transporter exports a central monoterpene indole alkaloid intermediate from the vacuole"](https://doi.org/10.1038/nplants.2016.208).
 
 The transcriptome data is the same as that available from the [Medicinal Plant Genomics](http://medicinalplantgenomics.msu.edu/pub/data/MPGR/Catharanthus_roseus) website, formatted such that R can more easily read it in.
 
